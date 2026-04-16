@@ -1,0 +1,10 @@
+repository:
+  description: "Hyperparameter optimization and search space exploration"
+  topics:
+    - hyperparameter-optimization
+    - search-space
+    - machine-learning
+    - tuning
+  default_branch: main
+  has_wiki: false
+  has_projects: false
